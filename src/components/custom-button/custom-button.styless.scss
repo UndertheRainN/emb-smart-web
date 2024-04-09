@@ -1,0 +1,7 @@
+button {
+  &.ant-btn-primary {
+    @apply text-white border-redAccent-400 bg-redAccent-400 min-w-[120px] h-8 py-1 px-3;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+  }
+}

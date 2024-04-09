@@ -1,0 +1,7 @@
+.ant-breadcrumb-link {
+  @apply text-white;
+}
+.collapsed-button {
+  @apply bg-[#002140] #{!important};
+  @apply hover:bg-[#002140] active:bg-[#002140] absolute top-[45px] right-[-14px];
+}

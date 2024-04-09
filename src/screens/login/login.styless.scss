@@ -1,0 +1,13 @@
+.container-login {
+  @apply w-screen h-screen bg-[length:100vw_100vh];
+  background-image: url("https://gcs.tripi.vn/public-tripi/tripi-feed/img/474113Eyv/anh-canh-dep-nhat-the-gioi-chat-luong-cao_014849939.jpg");
+}
+.form-container {
+  @apply w-1/4 p-5 rounded-lg bg-primary-50/[.5] justify-center items-center;
+}
+.input {
+  @apply h-10;
+}
+.form-item {
+  @apply font-normal;
+}
